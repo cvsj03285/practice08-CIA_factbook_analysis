@@ -7,10 +7,6 @@ statistics about all of the countries on Earth. The Factbook contains demographi
 - area - The total land and water area.
 
 We'll use SQL in Jupyter notebook to explore and analyze data.
-%%capture
-%load_ext sql
-%sql sqlite:///factbook.db
-
 Here are the descriptions for some of the columns:
 
 - name - The name of the country.
