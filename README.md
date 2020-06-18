@@ -23,3 +23,5 @@ Here are the descriptions for some of the columns:
 - population_growth- The country's population growth as a percentage.
 - birth_rate - The country's birth rate, or the number of births a year per 1,000 people.
 - death_rate - The country's death rate, or the number of death a year per 1,000 people.
+
+Let's use SQL to search and explore the data we're interested.
